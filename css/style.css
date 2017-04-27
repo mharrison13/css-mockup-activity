@@ -54,6 +54,10 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 
+body {
+	background: #000000;
+}
+
 header {
 	background-color: #ff8b00;
 	color: #ffffff;
