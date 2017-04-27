@@ -87,7 +87,7 @@ section:nth-child(3) {
 }
 
 .instructions {
-	border-color: #ff8b00;
+	border: #ff8b00;
 	padding: 8px;
 	margin: 20px;
 }
