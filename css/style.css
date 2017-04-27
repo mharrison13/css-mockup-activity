@@ -92,7 +92,7 @@ div:nth-child(1) {
 }
 
 .pull-right {
-	float: right;
+	float: left;
 	width: 300px;
 	padding: 2rem
 }
