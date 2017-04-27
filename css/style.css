@@ -91,13 +91,17 @@ div:nth-child(1) {
 	padding: 8px;
 }
 
-.pull-right {
+img[src="images/captain-janeway.png"] {
 	float: right;
 	width: 300px;
 	padding: 2rem
 }
 
-
+.pull-left {
+	float: left;
+	width: 300px;
+	padding: 2rem
+}
 
 main {
 	background-color: #ffffff;
