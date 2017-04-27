@@ -100,7 +100,6 @@ section:nth-child(3) {
 
 
 .instructions {
-	border: 3px blue;
 	padding: 8px;
 	margin: 20px;
 }
@@ -108,8 +107,7 @@ section:nth-child(3) {
 img[src="images/captain-janeway.png"] {
 	float: right;
 	width: 300px;
-	padding-left: 2rem;
-	padading-right:1rem
+	padding-left: 2rem
 }
 
 img[src="images/stunning.jpg"] {
