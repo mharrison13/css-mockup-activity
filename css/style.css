@@ -99,7 +99,7 @@ main {
 }
 
 table {
-	border: 1px;
+	border: 1px solid white;
 	padding: 2rem;
 	width: 90%;
 	font-family: Helvetica;
