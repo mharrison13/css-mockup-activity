@@ -56,8 +56,12 @@ body { width: 100%;}
 
 header {
 	background-color: #ff8b00;
+	color: #ffffff;
 }
 
+h1 {
+	color: #ffffff;
+}
 
 .instructions {
 	background-color: #ffffff;
@@ -68,12 +72,7 @@ footer {
 	background-color: #000000;
 }
 
-container:nth-child(0) {
-	float: right;
-	color: #ffffff
-}
-
-section:nth-child(1) {
+section:nth-child(2) {
 	background-color: #d3d3d3;
 }
 
