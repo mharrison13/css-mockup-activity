@@ -95,6 +95,7 @@ section:nth-child(2) {
 	color: #6f767d;
 	font-family: Arial;
 	padding: 1rem
+	line-height: 200%;
 }
 
 section:nth-child(3) {
@@ -104,9 +105,7 @@ section:nth-child(3) {
 span {
 	color: black;
 	font-family: time;
-	font-style: italic;
-	line-height: 200%;
-
+	font-style: italic
 }
 
 .instructions {
