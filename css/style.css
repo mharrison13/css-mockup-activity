@@ -107,9 +107,7 @@ section:nth-child(3) {
 img[src="images/captain-janeway.png"] {
 	float: right;
 	width: 300px;
-	padding-left: 2rem;
-	border-width: 5px;
-	border-color: gray
+	padding-left: 2rem
 }
 
 img[src="images/stunning.jpg"] {
@@ -117,6 +115,7 @@ img[src="images/stunning.jpg"] {
 	width: 300px;
 	padding-right: 2rem;
 	padding-bottom: 1rem
+	border: solid 5px white;
 }
 
 main {
