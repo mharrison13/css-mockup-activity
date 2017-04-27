@@ -101,5 +101,8 @@ table {
 	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
+}
 
+h2:nth-child(2) {
+	float: right;
 }
