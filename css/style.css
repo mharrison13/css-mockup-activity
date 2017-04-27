@@ -130,8 +130,7 @@ table {
 	width: 98%;
 	font-family: Arial Helvetica Times;
 	font-size: 1rem;
-	background-color: #fffff;
-	color: #ffffff;
+	color: #ffffff
 }
 
 th,
@@ -139,8 +138,7 @@ td {
 	margin: 10px;
 	padding: 1rem;
 	border: 1px solid white;
-	background-color: ff8b00;
-	color: white
+	background-color: #ff8b00
 
 }
 
