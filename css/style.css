@@ -105,7 +105,8 @@ section:nth-child(3) {
 span {
 	color: black;
 	font-family: time;
-	font-style: italic
+	font-style: italic;
+	font-style: oblique
 }
 
 .instructions {
