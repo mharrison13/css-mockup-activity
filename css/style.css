@@ -113,8 +113,8 @@ img[src="images/captain-janeway.png"] {
 img[src="images/stunning.jpg"] {
 	float: left;
 	width: 300px;
-	padding-right: 2rem;
-	padding-bottom: 1rem;
+	margin-right: 2rem;
+	margin-bottom: 1rem;
 	border: solid 5px white;
 }
 
