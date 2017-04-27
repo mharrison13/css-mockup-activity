@@ -134,11 +134,9 @@ table {
 	color: #ffffff;
 }
 
+th,
 td {
-
-}
-
-th {
+	margin: 1px;
 	padding: 1rem;
 	border: 1px solid white
 }
