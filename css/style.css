@@ -98,16 +98,17 @@ main {
 	background-color: #ffffff;
 }
 
-table,
-th,
-td {
-	border: 1px solid white;
+table {
 	padding: 2rem;
 	width: 90%;
 	font-family: Helvetica;
 	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
+}
+
+td {
+	border: 1px solid white;
 }
 
 h2:nth-child(3) {
