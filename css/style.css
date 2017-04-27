@@ -59,7 +59,11 @@ body {
 	color: #000000;
 }
 
-h1,
+h1 {
+	color: #ffffff;
+	float: left;
+}
+
 em {
 	color: #ffffff;
 }
@@ -120,7 +124,6 @@ table {
 
 td {
 	border: 1px solid white;
-	pading: 5px
 }
 
 h2:nth-child(3) {
