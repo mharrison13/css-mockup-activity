@@ -14,7 +14,7 @@
 
 			<header>
 				<div class="container">
-					<h1>Dylan McDonald</h1>
+					<h1>ylan McDonald</h1>
 					<em>Computer Scientist. Cat Lover. Picard Fan.</em>
 				</div>
 			</header>
