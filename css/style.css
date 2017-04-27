@@ -91,3 +91,7 @@ img[src="images/captain-janeway.png"] {
 img[src="images/stunning.jpg"] {
 	float: left;
 }
+
+main {
+	background-color: #ffffff;
+}
