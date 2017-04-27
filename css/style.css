@@ -97,6 +97,9 @@ main {
 }
 
 table {
+	font-family: Arial;
+	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
+
 }
