@@ -51,7 +51,7 @@ body { width: 100%;}
 }
 
 /*****************************************************
-* ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+* ADD YOUR OWN CSS BELOW! (ï¾‰â—•ãƒ®â—•)ï¾‰*:ï½¥ï¾Ÿâœ§
 ******************************************************/
 
 body {
@@ -86,8 +86,9 @@ section:nth-child(3) {
 	background-color: #ffffff;
 }
 
+
 .instructions {
-	border: 3px #ff8b00;
+	border: 3px blue;
 	padding: 8px;
 	margin: 20px;
 }
@@ -110,7 +111,7 @@ main {
 
 table {
 	padding: 2rem;
-	width: 90%;
+	width: 98%;
 	font-family: Helvetica;
 	font-size: 1rem;
 	background-color: #ff8b00;
