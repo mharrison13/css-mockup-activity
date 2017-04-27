@@ -58,9 +58,6 @@ header {
 	background-color: #ff8b00;
 }
 
-h1 {
-	color: #ffffff;
-}
 
 .instructions {
 	background-color: #ffffff;
@@ -71,7 +68,7 @@ footer {
 	background-color: #000000;
 }
 
-em:nth-child(0) {
+container:nth-child(0) {
 	float: right;
 	color: #ffffff
 }
