@@ -59,6 +59,11 @@ body {
 	color: #000000;
 }
 
+h1,
+em {
+	color: #ffffff;
+}
+
 .sfooter {
 	background-color: #ff8b00;
 }
