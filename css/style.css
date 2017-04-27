@@ -95,3 +95,7 @@ img[src="images/stunning.jpg"] {
 main {
 	background-color: #ffffff;
 }
+
+li {
+	float: left;
+}
