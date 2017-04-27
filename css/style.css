@@ -71,6 +71,11 @@ footer {
 	background-color: #000000;
 }
 
+em:nth-child(1) {
+	float: right;
+	color: #ffffff
+}
+
 section:nth-child(2) {
 	background-color: #d3d3d3;
 }
