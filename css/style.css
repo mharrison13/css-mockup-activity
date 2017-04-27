@@ -125,17 +125,16 @@ main {
 	background-color: #ffffff;
 }
 
-table,
-tr {
+table {
 	padding: 2rem;
 	width: 98%;
-	font-family: Helvetica;
+	font-family: Arial Helvetica Times;
 	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
 }
 
-td {
+tr {
 	border: 1px solid white;
 }
 
