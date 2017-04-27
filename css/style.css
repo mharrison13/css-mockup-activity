@@ -91,13 +91,13 @@ div:nth-child(1) {
 	padding: 8px;
 }
 
-
-
-.pull-left {
-	float: left;
+.pull-right {
+	float: right;
 	width: 300px;
 	padding: 2rem
 }
+
+
 
 main {
 	background-color: #ffffff;
