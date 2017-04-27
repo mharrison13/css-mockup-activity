@@ -61,11 +61,12 @@ body {
 
 h1 {
 	color: #ffffff;
+	display: inline
 }
 
 em {
 	color: #ffffff;
-	float: right;
+	float: right
 }
 
 .sfooter {
