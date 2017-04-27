@@ -74,7 +74,3 @@ footer {
 	color: #ffffff;
 	background-color: #000000;
 }
-
-Section + p {
-	background-color: #d3d3d3;
-}
