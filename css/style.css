@@ -86,7 +86,7 @@ section:nth-child(3) {
 	background-color: #ffffff;
 }
 
-div:nth-child(2) {
+div:nth-child(1) {
 	border-color: #ff8b00;
 	padding: 1px;
 }
