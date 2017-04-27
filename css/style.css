@@ -84,6 +84,10 @@ section:nth-child(3) {
 	background-color: #ffffff;
 }
 
+img[src="images/captain-janeway.png"] {
+	float: right;
+}
+
 img[src="images/stunning.jpg"] {
 	float: left;
 }
@@ -92,6 +96,7 @@ main {
 	background-color: #ffffff;
 }
 
-li {
-	float: left;
+table {
+	background-color: #ff8b00;
+	color: #ffffff;
 }
