@@ -92,7 +92,8 @@ footer {
 
 section:nth-child(2) {
 	background-color: #d3d3d3;
-	color: #000000;
+	color: #6f767d;
+	font-family: Arial;
 	padding: 1rem
 }
 
@@ -100,6 +101,12 @@ section:nth-child(3) {
 	background-color: #ffffff;
 }
 
+span {
+	color: black;
+	font-family: time;
+	font-style: italic;
+
+}
 
 .instructions {
 	padding: 8px;
