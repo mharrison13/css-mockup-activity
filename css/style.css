@@ -99,14 +99,14 @@ main {
 }
 
 table {
-	border: 1px solid white;
+	border: 1px;
+	border-color: white;
 	padding: 2rem;
 	width: 90%;
 	font-family: Helvetica;
 	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
-	border-color: #ffffff;
 }
 
 h2:nth-child(3) {
