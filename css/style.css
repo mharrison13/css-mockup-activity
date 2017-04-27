@@ -74,9 +74,13 @@ em {
 	background-color: #ff8b00;
 }
 
+ol {
+	display: inline;
+	float: left
+}
+
 .instructions {
 	background-color: #ffffff;
-	display: inline
 }
 
 footer {
