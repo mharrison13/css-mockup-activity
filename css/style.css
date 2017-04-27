@@ -103,6 +103,7 @@ table {
 	font-size: 1rem;
 	background-color: #ff8b00;
 	color: #ffffff;
+	border-color: #ffffff;
 }
 
 h2:nth-child(3) {
