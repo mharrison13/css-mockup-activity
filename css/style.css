@@ -125,7 +125,8 @@ main {
 	background-color: #ffffff;
 }
 
-table {
+table,
+tr {
 	padding: 2rem;
 	width: 98%;
 	font-family: Helvetica;
