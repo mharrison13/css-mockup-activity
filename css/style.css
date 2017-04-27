@@ -108,7 +108,6 @@ section:nth-child(3) {
 }
 
 img[src="images/captain-janeway.png"] {
-	float: right;
 	width: 300px;
 	margin-left: 1rem;
 	border: solid 5px #d3d3d3;
