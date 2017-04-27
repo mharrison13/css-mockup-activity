@@ -55,9 +55,13 @@ body { width: 100%;}
 ******************************************************/
 
 .container {
-	background-color: #ff8b00;;
+	background-color: #ff8b00;
 }
 
 h1 {
-	color: #ffffff
+	color: #ffffff;
+}
+
+.instructions {
+	background-color: #ffffff;
 }
