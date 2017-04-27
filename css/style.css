@@ -134,12 +134,13 @@ table {
 	color: #ffffff;
 }
 
-tr {
-	border: 1px solid white;
+td {
+
 }
 
 th {
 	padding: 1rem;
+	border: 1px solid white
 }
 
 h2:nth-child(3) {
