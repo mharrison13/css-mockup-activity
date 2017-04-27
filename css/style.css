@@ -99,6 +99,7 @@ main {
 }
 
 table {
+	width: 80%;
 	font-family: Helvetica;
 	font-size: 1rem;
 	background-color: #ff8b00;
