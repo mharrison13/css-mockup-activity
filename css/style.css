@@ -101,7 +101,7 @@ section:nth-child(3) {
 }
 
 
-h2 > p {
+h2 {
 	padding: 8px;
 	margin: 20px;
 	block: inline-block
