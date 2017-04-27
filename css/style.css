@@ -101,13 +101,14 @@ section:nth-child(3) {
 }
 
 
-.instructions {
+h2 > p {
 	padding: 8px;
 	margin: 20px;
 	block: inline-block
 }
 
 img[src="images/captain-janeway.png"] {
+	float: right;
 	width: 300px;
 	margin-left: 1rem;
 	border: solid 5px #d3d3d3;
