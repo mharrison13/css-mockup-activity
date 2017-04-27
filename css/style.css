@@ -80,6 +80,10 @@ section:nth-child(2) {
 	background-color: #d3d3d3;
 }
 
+section:nth-child(3) {
+	background-color: #ffffff;
+}
+
 img[src="images/captain-janeway.png"] {
 	float: right;
 }
