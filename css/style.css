@@ -98,10 +98,11 @@ main {
 	background-color: #ffffff;
 }
 
-table, th, td {
+table,
+th,
+td {
 	border: 1px solid white;
 	padding: 2rem;
-	width: 90%;
 	font-family: Helvetica;
 	font-size: 1rem;
 	background-color: #ff8b00;
