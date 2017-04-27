@@ -54,11 +54,11 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 
-body {
+.sfooter {
 	background-color: #000000;
 }
 
-.container {
+.header {
 	background-color: #ff8b00;
 }
 
