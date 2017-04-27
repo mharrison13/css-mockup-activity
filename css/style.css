@@ -91,13 +91,13 @@ div:nth-child(1) {
 	padding: 8px;
 }
 
-img[src="images/captain-janeway.png"] {
+.pull-right {
 	float: right;
 	width: 300px;
 	padding: 2rem
 }
 
-img[src="images/stunning.jpg"] {
+.pull-left {
 	float: left;
 	width: 300px;
 	padding: 2rem
