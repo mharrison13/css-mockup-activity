@@ -68,11 +68,10 @@ h1 {
 
 em {
 	color: #ffffff;
-	float: left;
 	font-family: Arial;
 }
 
-header {
+.sfooter {
 	background-color: #ff8b00;
 }
 
