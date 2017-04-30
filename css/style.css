@@ -150,3 +150,7 @@ td {
 	background-color: #ff8b00;
 	font-family: Arial;
 
+}
+section:nth-child(1) {
+	float: right;
+}
