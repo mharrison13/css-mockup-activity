@@ -112,7 +112,8 @@ span {
 .instructions {
 	padding: 8px;
 	margin: 20px;
-	block: inline-block
+	block: inline-block;
+	float: left
 }
 
 img[src="images/captain-janeway.png"] {
