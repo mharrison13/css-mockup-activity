@@ -151,6 +151,6 @@ td {
 	font-family: Arial;
 
 }
-h2:nth-child(2) {
+h2:nth-child(1) {
 	float: right;
 }
