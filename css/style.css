@@ -111,8 +111,8 @@ span {
 
 .instructions {
 	padding: 8px;
-	margin: 20px;
-	border: .5px solid orange;
+	margin: 1rem;
+	border: .2px solid orange;
 	padding: 1rem;
 	block: inline-block;
 }
