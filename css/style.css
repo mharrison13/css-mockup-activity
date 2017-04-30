@@ -157,3 +157,8 @@ h2:nth-child(1) {
 	padding: 1rem;
 	color: orange
 }
+
+h2 {
+	float: left;
+	color: #000
+}
