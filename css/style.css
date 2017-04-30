@@ -153,4 +153,6 @@ td {
 }
 h2:nth-child(1) {
 	float: right;
+	font-family: Arial;
+	color: orange
 }
