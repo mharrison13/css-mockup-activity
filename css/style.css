@@ -107,10 +107,11 @@ span {
 }
 
 .instructions {
-	margin: 1rem;
+	color: orange;
+	font-family: Arial;
+	margin: 2rem;
 	border: 3px solid orange;
 	padding: 1rem;
-	block: inline-block;
 }
 
 img[src="images/captain-janeway.png"] {
