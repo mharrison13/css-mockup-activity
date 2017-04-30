@@ -145,7 +145,7 @@ table {
 th,
 td {
 	margin: 5px;
-	padding: 1rem;
+	padding: .5rem;
 	border: .5px solid white;
 	background-color: #ff8b00;
 	font-family: Arial;
@@ -154,5 +154,6 @@ td {
 h2:nth-child(1) {
 	float: right;
 	font-family: Arial;
+	padding: .5rem;
 	color: orange
 }
