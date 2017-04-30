@@ -132,7 +132,7 @@ main {
 }
 
 table {
-	padding: 1rem;
+	padding: 2rem;
 	width: 98%;
 	font-family: Arial Helvetica Times;
 	font-size: 1rem;
@@ -151,7 +151,6 @@ td {
 h2:nth-child(1) {
 	float: right;
 	font-family: Arial;
-	padding: 1rem;
 	color: orange
 }
 
