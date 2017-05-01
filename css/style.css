@@ -101,7 +101,7 @@ section:nth-child(3) {
 
 span {
 	color: black;
-	font-family: time;
+	font-family: times;
 	font-style: italic;
 	font-style: oblique
 }
@@ -135,7 +135,7 @@ main {
 
 table {
 	padding-right: 2rem;
-	padding-left:;: 2rem;
+	padding-left: 2rem;
 	padding-bottom: 2rem;
 	width: 100%;
 	font-family: Arial Helvetica Times;
@@ -147,7 +147,7 @@ th,
 td {
 	margin: 5px;
 	padding: 1rem;
-	border: .5px solid white;
+	border: 1px solid white;
 	background-color: #ff8b00;
 	font-family: Arial
 }
