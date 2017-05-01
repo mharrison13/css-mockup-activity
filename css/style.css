@@ -167,6 +167,10 @@ h2:nth-child(1) {
 	color: orange
 }
 
+header {
+	Padding: 2rem
+}
+
 h4 {
 	font-family: Arial Helvetica Times
 }
