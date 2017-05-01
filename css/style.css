@@ -64,7 +64,8 @@ h1 {
 	display: inline;
 	font-family: Arial;
 	font-size: 4rem;
-	padding-top: 2rem
+	padding-top: 2rem;
+	margin: 1rem
 }
 
 em {
@@ -111,7 +112,6 @@ span {
 	color: orange;
 	font-family: Arial;
 	border: 3px solid orange;
-	block: inline-block
 }
 
 img[src="images/captain-janeway.png"] {
