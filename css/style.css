@@ -68,13 +68,14 @@ h1 {
 	margin: 1rem
 }
 
-h2 {
-	float: left
-}
-
 h2:first-child {
 	float: left
 }
+
+h2:nth-child(1) {
+	float: left;
+}
+
 
 em {
 	color: #ffffff;
