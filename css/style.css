@@ -110,6 +110,8 @@ span {
 	color: orange;
 	font-family: Arial;
 	border: 3px solid orange;
+	padding: 2rem;
+	margin-top: 3rem
 }
 
 img[src="images/captain-janeway.png"] {
