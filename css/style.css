@@ -72,7 +72,7 @@ h2:first-child {
 	float: left
 }
 
-h2:nth-child(1) {
+h2:nth-child(0) {
 	float: left;
 }
 
@@ -165,5 +165,9 @@ h2:nth-child(1) {
 	padding-right: 2rem;
 	font-family: Arial;
 	color: orange
+}
+
+h4 {
+	font-family: Arial Helvetica Times
 }
 
