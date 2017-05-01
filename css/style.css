@@ -119,6 +119,8 @@ span {
 	font-family: Arial;
 	border: 3px solid orange;
 	padding: 2rem
+	display:inline-block;
+
 }
 
 img[src="images/captain-janeway.png"] {
