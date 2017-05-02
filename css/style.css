@@ -86,7 +86,7 @@ em {
 }
 
 ol {
-	display: inline;
+	display: inline-block;
 	float: left
 }
 
