@@ -114,15 +114,6 @@ span {
 	font-style: oblique
 }
 
-.instructions {
-	color: orange;
-	font-family: Arial;
-	border: 3px solid orange;
-	padding: 2rem
-	display:inline-block
-
-}
-
 img[src="images/stunning.jpg"] {
 	float: left;
 	width: 300px;
@@ -175,3 +166,10 @@ img[src="images/captain-janeway.png"] {
 	border: solid 5px #d3d3d3;
 }
 
+.instructions {
+	color: orange;
+	font-family: Arial;
+	border: 3px solid orange;
+	padding: 2rem
+	display:inline-block
+}
