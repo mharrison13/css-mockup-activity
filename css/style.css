@@ -171,3 +171,7 @@ img[src="images/captain-janeway.png"] {
 	display: inline-block
 }
 
+ol {
+	display: inline-block;
+	float: left
+}
