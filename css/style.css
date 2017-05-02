@@ -68,10 +68,6 @@ h1 {
 	margin: 1rem
 }
 
-.pull-left {
-	margin: 1rem
-}
-
 h2:first-child {
 	float: left
 }
@@ -127,13 +123,6 @@ span {
 
 }
 
-img[src="images/captain-janeway.png"] {
-	float: right;
-	width: 300px;
-	margin-left: 1rem;
-	border: solid 5px #d3d3d3;
-}
-
 img[src="images/stunning.jpg"] {
 	float: left;
 	width: 300px;
@@ -177,5 +166,12 @@ header {
 
 h4 {
 	font-family: Arial Helvetica Times
+}
+
+img[src="images/captain-janeway.png"] {
+	float: right;
+	width: 300px;
+	margin: 1rem;
+	border: solid 5px #d3d3d3;
 }
 
