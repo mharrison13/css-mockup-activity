@@ -175,7 +175,3 @@ ol {
 	display: inline-block;
 	float: left
 }
-
-h2:nth-child(3) {
-	float: right
-}
