@@ -68,21 +68,25 @@ h1 {
 	margin: 1rem
 }
 
+.pull-left {
+	margin: 1rem
+}
+
 h2:first-child {
 	float: left
 }
 
 h2:nth-child(0) {
-	float: left;
+	float: left
 }
 
 em {
 	color: #ffffff;
-	font-family: Arial;
+	font-family: Arial
 }
 
 .sfooter {
-	background-color: #ff8b00;
+	background-color: #ff8b00
 }
 
 ol {
