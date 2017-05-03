@@ -136,7 +136,10 @@ h2:nth-child(1) {
 	padding-right: 2rem;
 	font-family: Arial;
 	color: orange;
-	display: inline-block;
+}
+
+h2:nth-child(3) {
+	text-align: right
 }
 
 header {
