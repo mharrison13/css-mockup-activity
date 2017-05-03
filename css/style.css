@@ -85,12 +85,6 @@ em {
 	background-color: #ff8b00
 }
 
-footer {
-	color: #ffffff;
-	background-color: #000000;
-	font-family: "Arial Helvetica Times";
-}
-
 section:nth-child(2) {
 	background-color: #d3d3d3;
 	color: #6f767d;
@@ -175,4 +169,10 @@ img[src="images/captain-janeway.png"] {
 ol {
 	display: inline-block;
 	float: left
+}
+
+footer {
+	color: #ffffff;
+	background-color: #000000;
+	font-family: "Arial Helvetica Times";
 }
