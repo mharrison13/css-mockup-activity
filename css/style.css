@@ -156,6 +156,8 @@ img[src="images/captain-janeway.png"] {
 	font-family: Arial;
 	border: 3px solid orange;
 	width: 90%;
+	padding: 2rem;
+	margin: 2rem;
 	display: inline-block
 }
 
