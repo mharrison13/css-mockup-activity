@@ -93,7 +93,7 @@ section:nth-child(3) {
 	background-color: #ffffff
 }
 
-section:nth-child(3) > p {
+h2:nth-child(3) > p {
 	float: right
 }
 
