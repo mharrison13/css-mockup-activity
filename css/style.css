@@ -164,7 +164,8 @@ img[src="images/captain-janeway.png"] {
 
 footer {
 	color: #ffffff;
-	background-color: #000000
+	background-color: #000000;
+	font-family: Arial;
 }
 
 ol {
