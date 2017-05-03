@@ -72,10 +72,6 @@ h2:nth-child(0) {
 	float: left
 }
 
-h2:nth-child(4) {
-	float: right
-}
-
 em {
 	color: #ffffff;
 	font-family: Arial
