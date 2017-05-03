@@ -93,10 +93,6 @@ section:nth-child(3) {
 	background-color: #ffffff
 }
 
-h2:nth-child(3) > p {
-	float: right
-}
-
 span {
 	color: black;
 	font-family: times;
