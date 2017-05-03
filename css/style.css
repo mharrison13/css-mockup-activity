@@ -139,7 +139,7 @@ h2:nth-child(1) {
 }
 
 h2:nth-child(3) {
-	text-align: right
+	float: right
 }
 
 header {
