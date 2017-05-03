@@ -68,10 +68,6 @@ h1 {
 	margin: 1rem
 }
 
-h2:nth-child(0) {
-	float: left
-}
-
 em {
 	color: #ffffff;
 	font-family: Arial
