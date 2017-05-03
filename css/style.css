@@ -161,7 +161,7 @@ ol {
 	font-size: 1rem
 }
 
-h2:last-child {
+h2:nth-child(3) {
 	float: right
 }
 
