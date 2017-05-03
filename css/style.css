@@ -135,7 +135,8 @@ td {
 h2:nth-child(1) {
 	padding-right: 2rem;
 	font-family: Arial;
-	color: orange
+	color: orange;
+	display: inline-block;
 }
 
 header {
