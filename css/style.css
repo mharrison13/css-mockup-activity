@@ -162,11 +162,6 @@ img[src="images/captain-janeway.png"] {
 	display: inline-block
 }
 
-ol {
-	display: inline-block;
-	float: left
-}
-
 footer {
 	color: #ffffff;
 	background-color: #000000
