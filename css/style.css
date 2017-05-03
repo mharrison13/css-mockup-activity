@@ -72,8 +72,8 @@ h2:nth-child(0) {
 	float: left
 }
 
-h2:nth-child(3) {
-	float: right;
+h2:nth-child(2) {
+	float: right
 }
 
 em {
