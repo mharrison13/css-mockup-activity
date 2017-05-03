@@ -54,6 +54,9 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ï¾‰â—•ãƒ®â—•)ï¾‰*:ï½¥ï¾Ÿâœ§
 ******************************************************/
 
+h2:nth-child(3) {
+	float: right;
+}
 
 body {
 	background: #000000;
