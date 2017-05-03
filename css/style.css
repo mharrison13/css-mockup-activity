@@ -169,8 +169,3 @@ ol {
 	float: left;
 	font-size: 1rem
 }
-
-.container :nth-child(4) {
-	display: inline-block;
-	float: right
-}
