@@ -137,6 +137,12 @@ h2:nth-child(1) {
 	color: orange
 }
 
+
+h2:nth-child(3) {
+	display: inline-block;
+	float: right
+}
+
 header {
 	Padding: 2rem
 }
