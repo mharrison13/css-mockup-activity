@@ -166,3 +166,8 @@ footer {
 	color: #ffffff;
 	background-color: #000000
 }
+
+ol {
+	display: inline-block;
+	float: left
+}
