@@ -141,10 +141,6 @@ header {
 	Padding: 2rem
 }
 
-h4 {
-	font-family: Arial Helvetica Times
-}
-
 img[src="images/captain-janeway.png"] {
 	float: right;
 	width: 300px;
@@ -165,7 +161,7 @@ img[src="images/captain-janeway.png"] {
 footer {
 	color: #ffffff;
 	background-color: #000000;
-	font-family: Arial;
+	font-family: Arial
 }
 
 ol {
