@@ -161,7 +161,7 @@ ol {
 	font-size: 1rem
 }
 
-.container > p {
+.container:nth-child(2) > p {
 	float: right
 }
 
