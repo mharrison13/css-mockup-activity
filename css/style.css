@@ -138,10 +138,6 @@ h2:nth-child(1) {
 	color: orange;
 }
 
-.container:nth-child(4) > p {
-	float: right
-}
-
 header {
 	Padding: 2rem
 }
@@ -173,4 +169,8 @@ ol {
 	display: inline-block;
 	float: left;
 	font-size: 1rem
+}
+
+.container:nth-child(4) > p {
+	float: right
 }
