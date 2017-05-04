@@ -169,7 +169,7 @@ section:nth-child(2) {
 	line-height: 160%;
 }
 
-h2:first-of-type {
+.instructions {
 	float: left;
 	display: inline-block;
 }
