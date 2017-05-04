@@ -73,12 +73,6 @@ em {
 	font-family: Arial
 }
 
-div instructions > h2 {
-	float: left;
-	display: inline-block;
-	clear: both;
-}
-
 .sfooter {
 	background-color: #ff8b00
 }
@@ -177,5 +171,11 @@ section:nth-child(2) {
 
 h2:nth-child(3) {
 	float: right;
+}
+
+.instructions > h2 {
+	float: left;
+	display: inline-block;
+	clear: both;
 }
 
