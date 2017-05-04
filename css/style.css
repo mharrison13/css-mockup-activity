@@ -120,7 +120,7 @@ td {
 	font-family: Arial
 }
 
-.instructions + h2 {
+.instructions div + h2 {
 	float: left;
 }
 
