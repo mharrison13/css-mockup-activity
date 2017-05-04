@@ -73,7 +73,7 @@ em {
 	font-family: Arial
 }
 
-.instructions > h2 {
+div .instructions > h2 {
 	float: left;
 	display: inline-block;
 	clear: both;
