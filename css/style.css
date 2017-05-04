@@ -126,6 +126,10 @@ h2:nth-child(1) {
 	color: orange;
 }
 
+h2:nth-child(4) {
+	float: right
+}
+
 header {
 	Padding: 2rem
 }
@@ -144,8 +148,7 @@ img[src="images/captain-janeway.png"] {
 	width: 90%;
 	padding: 2rem;
 	margin: 2rem;
-	display: inline-block;
-	clear: both
+	display: inline-block
 }
 
 footer {
