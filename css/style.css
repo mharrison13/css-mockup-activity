@@ -56,9 +56,6 @@ body { width: 100%;}
 
 
 img[src="images/captain-janeway.png"] {
-	float: right;
-	width: 300px;
-	margin: 1rem;
 	border: solid 5px #d3d3d3;
 }
 
