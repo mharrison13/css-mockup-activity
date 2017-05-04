@@ -171,7 +171,4 @@ h2:nth-child(3) {
 	float: right;
 }
 
-h2:first-child {
-	float: left;
-	display: inline-block;
-}
+
