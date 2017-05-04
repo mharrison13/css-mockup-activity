@@ -120,8 +120,8 @@ td {
 	font-family: Arial
 }
 
-.instructions div + h2 {
-	float: left;
+h2:first-child {
+	float: left
 }
 
 h2:nth-child(1) {
