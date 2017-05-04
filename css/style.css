@@ -120,6 +120,13 @@ td {
 	font-family: Arial
 }
 
+h2:nth-child(1) {
+	padding-right: 2rem;
+	font-family: Arial;
+	color: orange;
+	float: right
+}
+
 header {
 	Padding: 2rem
 }
