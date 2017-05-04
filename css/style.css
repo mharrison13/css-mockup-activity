@@ -63,13 +63,7 @@ img[src="images/captain-janeway.png"] {
 }
 
 .instructions {
-	color: orange;
-	font-family: Arial;
 	border: 3px solid orange;
-	width: 90%;
-	padding: 2rem;
-	margin: 2rem;
-	display: inline-block
 }
 
 
