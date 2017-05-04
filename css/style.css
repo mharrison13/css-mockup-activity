@@ -145,6 +145,7 @@ img[src="images/captain-janeway.png"] {
 	width: 90%;
 	padding: 2rem;
 	margin: 2rem;
+	display: inline
 }
 
 footer {
@@ -156,7 +157,7 @@ footer {
 ol {
 	float: left;
 	font-size: 1rem;
-	display: inline-block;
+	display: inline;
 	clear: both;
 }
 
@@ -174,6 +175,6 @@ h2:nth-child(3) {
 
 .pull-left > h2 {
 	float: left;
-	display: inline-block;
+	display: inline;
 }
 
