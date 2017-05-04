@@ -73,6 +73,12 @@ em {
 	font-family: Arial
 }
 
+.instructions div + h2 {
+	float: left;
+	display: inline-block;
+	clear: both;
+}
+
 .sfooter {
 	background-color: #ff8b00
 }
@@ -167,12 +173,6 @@ section:nth-child(2) {
 	font-family: Arial;
 	padding: 1rem;
 	line-height: 160%;
-}
-
-.instructions div + h2 {
-	float: left;
-	display: inline-block;
-	clear: both;
 }
 
 h2:nth-child(3) {
