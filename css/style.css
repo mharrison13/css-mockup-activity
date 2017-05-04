@@ -167,6 +167,11 @@ section:nth-child(2) {
 	line-height: 160%;
 }
 
+h2:nth-child(3) {
+	float: right;
+}
+
 h2:first-child {
-	float: left
+	float: left;
+	display: inline-block;
 }
