@@ -158,7 +158,6 @@ ol {
 	float: left;
 	font-size: 1rem;
 	display: inline-block;
-	clear: both;
 }
 
 section:nth-child(2) {
@@ -175,6 +174,6 @@ h2:nth-child(3) {
 
 .pull-left > h2 {
 	float: left;
-	clear: both;
+	display: inline-block
 }
 
