@@ -175,5 +175,6 @@ h2:nth-child(3) {
 
 .pull-left > h2 {
 	float: left;
+	clear: both;
 }
 
