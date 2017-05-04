@@ -172,7 +172,3 @@ h2:nth-child(3) {
 	float: right;
 }
 
-div > h2:first-child {
-	float: left;
-	display: inline-block;
-}
