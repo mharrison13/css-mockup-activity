@@ -120,10 +120,6 @@ td {
 	font-family: Arial
 }
 
-h2:first-child {
-	float: left
-}
-
 h2:nth-child(1) {
 	padding-right: 2rem;
 	font-family: Arial;
@@ -171,6 +167,6 @@ section:nth-child(2) {
 	line-height: 160%;
 }
 
-h2:nth-child(3) {
-	float: right;
+h2:first-child {
+	float: left
 }
