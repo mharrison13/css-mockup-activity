@@ -73,7 +73,7 @@ em {
 	font-family: Arial
 }
 
-.instructions div + h2 {
+.pull-left div+h2 {
 	float: left;
 	display: inline-block;
 	clear: both;
