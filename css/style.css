@@ -173,7 +173,7 @@ h2:nth-child(3) {
 	float: right;
 }
 
-.instructions > h2 {
+.pull-left > h2 {
 	float: left;
 	display: inline-block;
 }
