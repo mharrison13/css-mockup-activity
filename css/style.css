@@ -136,6 +136,7 @@ img[src="images/captain-janeway.png"] {
 	width: 300px;
 	margin: 1rem;
 	border: solid 5px #d3d3d3;
+	clear: both;
 }
 
 .instructions {
