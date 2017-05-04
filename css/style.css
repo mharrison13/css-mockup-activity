@@ -126,7 +126,7 @@ h2:nth-child(1) {
 	color: orange;
 }
 
-h2:last-child {
+h2:nth-last-of-type() {
 	float: right
 }
 
