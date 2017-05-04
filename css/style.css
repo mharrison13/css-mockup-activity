@@ -55,82 +55,6 @@ body { width: 100%;}
 ******************************************************/
 
 
-body {
-	background: #000000;
-	color: #000000;
-}
-
-h1 {
-	color: #ffffff;
-	display: inline;
-	font-family: Arial;
-	font-size: 4rem;
-	padding-top: 2rem;
-	margin: 1rem
-}
-
-em {
-	color: #ffffff;
-	font-family: Arial
-}
-
-.sfooter {
-	background-color: #ff8b00
-}
-
-section:nth-child(3) {
-	background-color: #ffffff
-}
-
-span {
-	color: black;
-	font-family: times;
-	font-style: italic;
-	font-style: oblique
-}
-
-img[src="images/stunning.jpg"] {
-	float: left;
-	width: 300px;
-	margin-right: 3rem;
-	margin-bottom: 1rem;
-	border: solid 5px white;
-}
-
-main {
-	background-color: #ffffff;
-}
-
-table {
-	padding-right: 2rem;
-	padding-left: 2rem;
-	padding-bottom: 2rem;
-	width: 100%;
-	font-family: Arial Helvetica Times;
-	font-size: 1rem;
-	color: #ffffff
-}
-
-th,
-td {
-	text-align: left;
-	margin: 5px;
-	padding: 1rem;
-	border: 1px solid white;
-	background-color: #ff8b00;
-	font-family: Arial
-}
-
-h2:nth-child(1) {
-	padding-right: 2rem;
-	font-family: Arial;
-	color: orange;
-}
-
-header {
-	Padding: 2rem
-}
-
 img[src="images/captain-janeway.png"] {
 	float: right;
 	width: 300px;
@@ -148,25 +72,8 @@ img[src="images/captain-janeway.png"] {
 	display: inline-block
 }
 
-footer {
-	color: #ffffff;
-	background-color: #000000;
-	font-family: Arial
-}
 
 ol {
 	float: left;
 	font-size: 1rem;
-}
-
-section:nth-child(2) {
-	background-color: #d3d3d3;
-	color: #6f767d;
-	font-family: Arial;
-	padding: 1rem;
-	line-height: 160%;
-}
-
-h2:nth-child(3) {
-	float: right;
 }
