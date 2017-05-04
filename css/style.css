@@ -173,3 +173,7 @@ h2:nth-child(3) {
 	float: right;
 }
 
+h2:first-of-type {
+	float: left;
+	display: inline-block;
+}
