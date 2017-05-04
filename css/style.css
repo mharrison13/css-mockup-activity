@@ -169,9 +169,10 @@ section:nth-child(2) {
 	line-height: 160%;
 }
 
-.instructions {
+.instructions div + h2 {
 	float: left;
 	display: inline-block;
+	clear: both;
 }
 
 h2:nth-child(3) {
